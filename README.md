@@ -1,1 +1,1 @@
-# comp4601
+# AES Accelerator - COMP4601
