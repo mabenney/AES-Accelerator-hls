@@ -13,4 +13,4 @@ Current Version: [v0.0](./Project_Updates.md#-version-0.0)
 | Aaron Nyholm      | z5316510   |
 
 # Project Plan
-8 Slide slideshow found [here](./Project_Plan).
+8 Slide slideshow found [here](./Project_Plan.pdf).
