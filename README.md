@@ -10,4 +10,4 @@
 | Aaron Nyholm      | z5316510   |
 
 # Project Updates
-[Version 0.0](./Project_Updates.md## Version 0.0)
+[Version 0.0](./Project_Updates.md#-version-0.0)
