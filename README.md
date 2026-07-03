@@ -11,3 +11,6 @@ Current Version: [v0.0](./Project_Updates.md#-version-0.0)
 | Daniel Craig      | z5417681   |
 | Xavier Herbert    | z5478413   |
 | Aaron Nyholm      | z5316510   |
+
+# Project Plan
+8 Slide slideshow found [here](./Project_Plan).
