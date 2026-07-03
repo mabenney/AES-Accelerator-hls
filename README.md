@@ -1,4 +1,7 @@
-# AES Accelerator - COMP4601
+# AES-128 Accelerator - COMP4601
+
+# Project Updates
+Current Version: [0.0](./Project_Updates.md#-version-0.0)
 
 # Project Contributors
 
@@ -8,6 +11,3 @@
 | Daniel Craig      | z5417681   |
 | Xavier Herbert    | z5478413   |
 | Aaron Nyholm      | z5316510   |
-
-# Project Updates
-[Version 0.0](./Project_Updates.md#-version-0.0)
